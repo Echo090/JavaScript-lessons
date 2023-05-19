@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+#overlay {
+    /* background-color: yellow; */
+    /* opacity: 0.2; */
+}
+

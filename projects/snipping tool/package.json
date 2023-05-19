@@ -1,3 +1,5 @@
 {
-  "type": "module"
+  "dependencies": {
+    "tesseract.js": "^3.0.3"
+  }
 }
